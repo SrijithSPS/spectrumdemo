@@ -1,0 +1,120 @@
+.nav-item {
+    font-weight: bold;
+    font-size:11px;
+}
+.welcome {
+    font-size: 26px;
+    line-height: 100px;
+}
+marquee {
+line-height: 100px;
+color: #930;
+font-family: Verdana, Geneva, sans-serif;
+font-size: 15px;
+font-weight: bold;
+}
+#h2 {
+  text-align: center;  
+}
+.card1 {
+  height: 350px;
+  width: 235px;
+  border-color: white;
+  border-width: 10px;
+}
+.footcolor {
+  background-color: #121214;
+}
+.visit {
+  text-decoration: none;
+}
+span {
+  color: #FF9954;
+  font-size: 12px;
+}
+.ribon1 {
+  width: 100px;
+height: 30px;
+margin-left: 130px;
+margin-top: 50px;
+box-shadow:1px 2px #121214;
+}
+.fa {
+  padding: 6px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    background-color:#FFFFFF;
+    border: solid #FFFFFF;
+    box-shadow:1px 2px #121214;
+    
+  }
+  .company {
+    background-color: #27609F;
+    color: white;
+    
+  }
+  .p2 {
+    color: #333333;
+    font-size: 10px;
+  }
+.h1 {
+  line-height: 100px;
+}
+.h21 {
+  margin-left: 70px;
+  line-height: 42px;
+  font-size: 35px;
+}
+ul {
+  font-size: small;
+ list-style: none;
+}
+#bluebtn {
+  border-radius: 50%;
+  height: 15px;
+  width: 15px;
+  
+}
+.s1 , .s2 {
+font-weight: bold;
+color: #090;
+font-size: 18px;
+}
+.contact{
+  display: flex;
+ 
+}
+.location {
+  height: 20px;
+}
+#con {
+  padding-right: 960px;
+}
+.cor {
+  line-height: 50px;
+  font-size: 18px;
+}
+.red {
+  color: #F00;
+}
+.hov:hover {
+  background-color:#d75646;
+}
+.subhead {
+  background-color: #FFFFFF;
+  text-decoration: none;
+  color: black;
+}
+.company1{
+  padding: 5px 5px 5px 5px;
+  background-color: #27609F;
+  color :black;
+  }
+.details {
+  text-align: justify;
+font-size: 0.9em;
+color: black;
+}
